@@ -110,7 +110,7 @@ fun CurrentModules(navController: NavHostController) {
 
             Column(){
                 Text(
-                    text = "Practical  |  1 Year",
+                    text = "         Practical  |  1 Semester",
                     color = Color.Black,
                     fontSize = 16.sp,
                 ) } }
@@ -134,7 +134,7 @@ fun CurrentModules(navController: NavHostController) {
 
             Column(){
                 Text(
-                    text = "    Theory  |  1 Year",
+                    text = "             Theory  |  1 Semester",
                     color = Color.Black,
                     fontSize = 16.sp,
                 ) } }
@@ -178,7 +178,7 @@ fun CurrentModules(navController: NavHostController) {
 
             Column(){
                 Text(
-                    text = "Practical  |  1 Year",
+                    text = "         Practical  |  1 Semester",
                     color = Color.Black,
                     fontSize = 16.sp,
                 ) } }
